@@ -27,7 +27,7 @@
 ## 📦 安装与配置
 
 1. 克隆本项目到本地：
-   ```bas  git clone [https://github.com/YourUsername/ShuiKe-Savior.git](https://github.com/YourUsername/ShuiKe-Savior.git)
+   ```bash  git clone [https://github.com/YourUsername/ShuiKe-Savior.git](https://github.com/YourUsername/ShuiKe-Savior.git)
    cd ShuiKe-Savior
 
 ```
