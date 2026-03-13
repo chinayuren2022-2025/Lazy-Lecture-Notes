@@ -27,14 +27,16 @@
 ## 📦 安装与配置
 
 1. 克隆本项目到本地：
-   ```bash
-   git clone [https://github.com/YourUsername/ShuiKe-Savior.git](https://github.com/YourUsername/ShuiKe-Savior.git)
+   ```bas  git clone [https://github.com/YourUsername/ShuiKe-Savior.git](https://github.com/YourUsername/ShuiKe-Savior.git)
    cd ShuiKe-Savior
 
 ```
 
+
 2. 安装依赖包：
+
 ```bash
+
 pip install -r requirements.txt
 
 ```
