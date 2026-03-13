@@ -27,9 +27,9 @@
 ## 📦 安装与配置
 
 1. 克隆本项目到本地：
-   ```bash 
-git clone [https://github.com/YourUsername/ShuiKe-Savior.git](https://github.com/YourUsername/ShuiKe-Savior.git)
-   cd ShuiKe-Savior
+```bash 
+git clone [https://github.com/YourUsername/ShuiKe-Savior.git](https://github.com/YourUsername/Lazy-Lecture-Notes.git)
+cd Lazy-Lecture-Notes
 
 ```
 
@@ -78,6 +78,9 @@ python make_note.py -u [https://example.com/linear_algebra_lesson1.mp4](https://
 python make_note.py -l /Users/me/Downloads/量子力学_第一章.mp3 -f /Users/me/Notes/量子力学笔记.md
 
 ```
+
+### support customized prompts
+Just find the right section in make_note.py and personize it!
 
 *(💡 程序会自动将录音上传到你的 OSS，调用大模型分析，并在生成笔记后自动销毁云端的临时录音文件！)*
 
