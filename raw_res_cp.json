@@ -1,0 +1,16 @@
+{
+  "Code": "0",
+  "Data": {
+    "Result": {
+      "AutoChapters": "https://prod-tingwu-paas-common-beijing.oss-cn-beijing.aliyuncs.com/tingwu/output/1657712325336401/a4119e2f85df4a98a06f25046e7014ab/a4119e2f85df4a98a06f25046e7014ab_AutoChapters_20260312145651.json?Expires=1775890615&OSSAccessKeyId=LTAI5tMzZ1D4o1drkJN1TfCr&Signature=QlVdfjWo484ObTFrsJshXWaWlIM%3D",
+      "CustomPrompt": "https://prod-tingwu-paas-common-beijing.oss-cn-beijing.aliyuncs.com/tingwu/output/1657712325336401/a4119e2f85df4a98a06f25046e7014ab/a4119e2f85df4a98a06f25046e7014ab_CustomPrompt_20260312145645.json?Expires=1775890615&OSSAccessKeyId=LTAI5tMzZ1D4o1drkJN1TfCr&Signature=ZLPh%2BhxQNUlX78a2uRRA2irGg%2Fg%3D",
+      "MeetingAssistance": "https://prod-tingwu-paas-common-beijing.oss-cn-beijing.aliyuncs.com/tingwu/output/1657712325336401/a4119e2f85df4a98a06f25046e7014ab/a4119e2f85df4a98a06f25046e7014ab_MeetingAssistance_20260312145640.json?Expires=1775890615&OSSAccessKeyId=LTAI5tMzZ1D4o1drkJN1TfCr&Signature=VGz2seTpXo%2F%2FtDXeKWd49jS2%2FIs%3D",
+      "Summarization": "https://prod-tingwu-paas-common-beijing.oss-cn-beijing.aliyuncs.com/tingwu/output/1657712325336401/a4119e2f85df4a98a06f25046e7014ab/a4119e2f85df4a98a06f25046e7014ab_Summarization_20260312145646.json?Expires=1775890615&OSSAccessKeyId=LTAI5tMzZ1D4o1drkJN1TfCr&Signature=hk%2BETcJZAmL%2FY6OgdLnWAyihcEA%3D",
+      "Transcription": "https://prod-tingwu-paas-common-beijing.oss-cn-beijing.aliyuncs.com/tingwu/output/1657712325336401/a4119e2f85df4a98a06f25046e7014ab/a4119e2f85df4a98a06f25046e7014ab_Transcription_20260312145627.json?Expires=1775890615&OSSAccessKeyId=LTAI5tMzZ1D4o1drkJN1TfCr&Signature=b3y965HutkzCbKA9gh1P%2Fc%2Brk30%3D"
+    },
+    "TaskId": "a4119e2f85df4a98a06f25046e7014ab",
+    "TaskStatus": "COMPLETED"
+  },
+  "Message": "success",
+  "RequestId": "4E33F493-7272-5CB3-A73D-4428A0D462A3"
+}
