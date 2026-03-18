@@ -1,0 +1,16 @@
+{
+  "Code": "0",
+  "Data": {
+    "Result": {
+      "AutoChapters": "https://example.com/tingwu/output/sample-task/sample_AutoChapters.json",
+      "CustomPrompt": "https://example.com/tingwu/output/sample-task/sample_CustomPrompt.json",
+      "MeetingAssistance": "https://example.com/tingwu/output/sample-task/sample_MeetingAssistance.json",
+      "Summarization": "https://example.com/tingwu/output/sample-task/sample_Summarization.json",
+      "Transcription": "https://example.com/tingwu/output/sample-task/sample_Transcription.json"
+    },
+    "TaskId": "sample-task-id",
+    "TaskStatus": "COMPLETED"
+  },
+  "Message": "success",
+  "RequestId": "sample-request-id"
+}

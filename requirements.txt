@@ -1,0 +1,6 @@
+alibabacloud_tingwu20230930>=2.0.0
+alibabacloud_tea_openapi>=0.3.8
+oss2>=2.18.0
+requests>=2.31.0
+imageio>=2.34.0
+imageio-ffmpeg>=0.5.1
